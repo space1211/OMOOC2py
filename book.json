@@ -2,7 +2,7 @@
     "plugins": ["disqus"],
     "pluginsConfig": {
         "disqus": {
-            "shortName": “space1211”
+            "shortName": "space1211"
         }
     }  
 }
